@@ -1,6 +1,6 @@
 # Codebase
 
-Github : [https://github.com/mayankyadav1711/MySocket.git](https://github.com/mayankyadav1711/MySocket.git)\
+Github : [https://github.com/palkesh10r/Chat-Application---MERN-stack](https://github.com/palkesh10r/Chat-Application---MERN-stack)\
 \
 Here are the installation commands for setting up the chat application:
 
