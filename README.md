@@ -33,7 +33,6 @@ This Chat Application is a web-based platform designed to facilitate real-time c
 
 ## Architecture
 
-<figure><img src=".gitbook/assets/mysocket.jpg" alt=""><figcaption><p>Architecture Diagram</p></figcaption></figure>
 
 The system architecture of the Chat Application consists of several components working together to provide the desired functionality.
 
